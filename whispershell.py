@@ -1,5 +1,4 @@
 import os
-import sys
 import subprocess
 
 def is_youtube_url(input_string):
